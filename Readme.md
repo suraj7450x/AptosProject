@@ -1,4 +1,5 @@
 # ToolRental Smart Contract
+![Screenshot 2024-09-25 132213](https://github.com/user-attachments/assets/4e229e03-ecb6-480d-a5d6-4727acda8353)
 
 ## Vision
 
